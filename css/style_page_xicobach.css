@@ -1,0 +1,261 @@
+@charset "utf-8";
+body header {
+    background-color: #000000;
+    height: 108px;
+    color: #FFFFFF;
+}
+body nav {
+    background-color: #FFFFFF;
+    height: 51px;
+    justify-content: flex-start;
+}
+body main {
+    background-color: #F2F2F2;
+    height: auto;
+}
+body footer {
+    background-color: #000000;
+    height: 178px;
+}
+body main section {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    height: auto;
+}
+
+
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+body header img {
+    float: left;
+    margin-top: 30px;
+    margin-left: 32px;
+    width: 220px;
+    height: auto;
+}
+body nav div {
+    background-color: #EBBD15;
+    height: 51px;
+    width: 346px;
+    margin-left: 60px;
+}
+nav div h1 {
+    font-family: Averta-SemiboldItalic, Averta-Thin, Averta-ThinItalic, Averta-RegularItalic, Averta-Semibold, Averta-Light, Averta-ExtrathinItalic, Averta-Extrathin, Averta-ExtraBoldItalic, Averta-ExtraBold, Averta-BoldItalic, Averta-Bold, Averta-BlackItalic, Averta-Black, "Averta Demo PE Extrabold", "Averta Demo PE", "Averta Demo ExtraBold Italic", "Averta Demo", Averta-Regular, Averta-LightItalic, Lato, "Lato Black", "Lato Hairline", "Lato Light";
+    padding-top: 12px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+}
+body footer img {
+    padding-left: 66px;
+    padding-top: 16px;
+    height: 157px;
+    width: auto;
+    display: flex;
+    clear: right;
+    float: left;
+    margin-left: 35px;
+
+}
+body div img {
+    width: auto;
+    height: 112px;
+    margin-top: 20px;
+}
+body div {
+}
+body div h6 {
+    color: #FFFFFF;
+    font-family: lato;
+    font-style: italic;
+    font-weight: 900;
+    font-variant: normal;
+    text-align: center;
+    float: left;
+    padding-top: 129px;
+    padding-left: 68px;
+}
+body div h3 {
+    color: #FFFFFF;
+    float: right;
+    margin-right: 106px;
+    margin-top: 43px;
+}
+body div p {
+    color: #FFFFFF;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 100;
+    font-size: small;
+    text-align: left;
+    float: right;
+    clear: right;
+    margin-right: 106px;
+}
+body p {
+}
+section div img {
+    color: #000000;
+    margin: auto;
+    padding-left: 131px;
+}
+section div h1 {
+    color: #EBBD15;
+    font-family: Averta-SemiboldItalic, Averta-Thin, Averta-ThinItalic, Averta-RegularItalic, Averta-Semibold, Averta-Light, Averta-ExtrathinItalic, Averta-Extrathin, Averta-ExtraBoldItalic, Averta-ExtraBold, Averta-BoldItalic, Averta-Bold, Averta-BlackItalic, Averta-Black, "Averta Demo PE Extrabold", "Averta Demo PE", "Averta Demo ExtraBold Italic", "Averta Demo", Averta-Regular, Averta-LightItalic, Lato, "Lato Black", "Lato Hairline", "Lato Light";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+section div p {
+    color: #000000;
+    text-align: center;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 700;
+    font-variant: normal;
+    font-size: 0px;
+}
+main section div {
+    text-align: center;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 700;
+    font-size: large;
+    margin-bottom: -27px;
+    margin-top: 78px;
+
+
+}
+section div h5 {
+    margin-top: 36px;
+}
+#Botondecalificaciones {
+    margin-top: 38px;
+    color: #FFFFFF;
+    border-color: #EBBD15;
+    border-width: 172px;
+    background-color: #EBBD15;
+    width: 221px;
+    height: 26px;
+    padding-top: 5px;
+    padding-bottom: 0px;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 110px;
+}
+#Botondecalificaciones hover a {
+    color: #FFFFFF;
+}
+.img1 {
+    width: 780px;
+    margin: 10px;
+    height: auto;
+}
+.beca1 {
+    width: 500px;
+    margin: 30px;
+    display: inline-block;
+}
+.beca2 {
+    width: 500px;
+    margin: 30px;
+    display: inline-block;
+}
+.h2_beca1 {
+    padding-bottom: 25px;
+}
+.h2_beca2 {
+    padding-bottom: 25px;
+}
+.p_em {
+    padding: 50px;
+
+}
+#descarga {
+    text-align: center;
+}
+.reglamento {
+    width: 400px;
+    text-align: center;
+    height: auto;
+    background-color: #EBBD15;
+    border-radius: 25px;
+    margin-left: auto;
+    padding: 10px;
+    margin-right: auto;
+    color: #000000;
+    text-decoration: none;
+}
+#descarga .link_reg {
+    text-decoration: none;
+}
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:1px;
+}
+ 
+.principal {
+    display:block;
+    margin:0 auto;
+    width:510px;
+    color: #EBBD15;
+    font-family:Arial;
+}
+ 
+form {
+    margin:0 auto;
+    width:400px;
+}
+ 
+input, textarea {
+    width:380px;
+    height:27px;
+    background:#EBBD15;
+    border:2px solid #f6f6f6;
+    padding:10px;
+    margin-top:5px;
+    font-size:10px;
+    color:#ffffff;
+}
+ 
+textarea {
+    height:150px;
+}
+ 
+#submit {
+    width:85px;
+    height:35px;
+    border:none;
+    margin-top:20px;
+    cursor:pointer;
+}#contacto {
+    margin: 25px;
+}
+.form_contacto {
+    padding-top: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+    background-color: #4E4E4E;
+}
+.img_estudios {
+
+}
+.h3_tex {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #F4C95F;
+    height: 40px;
+    padding-top: 10px;
+    width: auto;
+}
